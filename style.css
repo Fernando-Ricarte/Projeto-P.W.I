@@ -21,7 +21,7 @@ body{
 }
 
 .tab{
-    border: solid black 10;
+    border: 0;
     width: 900px;
     height: 30;
     background-color: #00BFFF;
@@ -35,7 +35,7 @@ body{
 
 nav{
     width: 900px;
-    height: 30;
+    height: 35;
     background-color: #00BFFF;
     text-align: center;
     top: 0;
