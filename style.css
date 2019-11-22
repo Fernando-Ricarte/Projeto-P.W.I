@@ -1,0 +1,59 @@
+a:link{
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover{
+                
+color: blue;
+ background-color: darkgray;
+ transition: 1s;
+}
+
+body{
+    background-color: #1C1C1C;
+}
+
+.menu{
+    background-color: #4682B4;
+    width: 900;
+    height: 50;
+}
+
+.tab{
+    border: solid black 10;
+    width: 900px;
+    height: 30;
+    background-color: #00BFFF;
+    
+}
+
+.td{
+     color: black;
+    
+}
+
+nav{
+    width: 900px;
+    height: 30;
+    background-color: #00BFFF;
+    text-align: center;
+    top: 0;
+    margin-top: 0;
+    border: 0;
+}
+
+ ul li{
+    display: inline-block;
+    text-align: center;
+    list-style-type: none;
+}
+
+ ul li a{
+    display: block;
+    color: black;
+    padding: 8px;
+    text-decoration: none;
+    text-align: center;
+}
+
