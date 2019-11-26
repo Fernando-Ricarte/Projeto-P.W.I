@@ -1,5 +1,8 @@
 body{
-    background-color: black; 
+    
+    background-color: #1C1C1C;
+    border: solid 20px #4682B4;
+   
 }
 
 h1{
@@ -15,5 +18,16 @@ p{
     text-align: justify;
     text-indent: 10px;
  
+}
+
+
+.cont{
+    display: flex;
+    justify-content: space-around;
+    background-color: #1C1C1C;
+    border: solid 20px #4682B4;
+    border-radius: 12px;
+    
+    
 }
 
